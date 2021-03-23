@@ -1,3 +1,5 @@
+![jackhanyuan's github stats](https://github-readme-stats.vercel.app/api?username=jackhanyuan&show_icons=true)
+
 <!--### Hi there 👋
 
 
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![jackhanyuan's github stats](https://github-readme-stats.vercel.app/api?username=jackhanyuan&show_icons=true)
